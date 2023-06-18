@@ -6,6 +6,7 @@ Projeto em desenvolvimento para a empresa Telecall.
   <li>Interatividade e facilidade de navegação</li>
 </ul>
 Link para a visualiação da pagina: https://cpaas-telecall.jvrtdev.repl.co
+Link com os arquivos para visualização do código: https://replit.com/@jvrtdev/Cpaas-Telecall
 
 
 
